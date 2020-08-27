@@ -3,8 +3,8 @@ import React from 'react';
 const ErrorPage = () => {
     return (
         <div>
-            <h1>Nie ma takiej strony <big>[404: NOT FOUND]</big></h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste ipsum totam consequuntur facilis nobis. Error repellat reiciendis saepe doloremque! Accusamus, necessitatibus. Distinctio illum necessitatibus neque nostrum ducimus dolore iusto dolorem?</p>
+            <h1>Witaj na stronie</h1>
+            <h2>Wybierz interesujący Cię kalkulator</h2>
         </div>
     );
 };
